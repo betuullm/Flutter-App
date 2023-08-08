@@ -1,4 +1,4 @@
-# falci
+# Falcı
 
 A new basic Flutter project.
 
